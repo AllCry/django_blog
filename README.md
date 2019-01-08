@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-# python_blog
-=======
 # django_blog
->>>>>>> ae4495fd8d5879eea0e5bd70f3985cc8d6e25aef
+
+`장고걸스`에서 보고 만드는 파이썬 블로그
